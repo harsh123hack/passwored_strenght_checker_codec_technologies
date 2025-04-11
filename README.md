@@ -1,0 +1,1 @@
+# passwored_strenght_checker_codec_technologies
